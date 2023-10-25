@@ -8,7 +8,11 @@ html{
     scroll-behavior: smooth;
 }
 body {
+<<<<<<< HEAD
     background-color: black; /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+=======
+    background-image: url('https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430879.jpg?w=1380&t=st=1697696097~exp=1697696697~hmac=343a0b38b79a8a8cd1351b885d2b6330cacc1a5cc10305800cf5d4aa9993f3a0'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+>>>>>>> b0c1c97eef3355afb6a93fe25018a2b79a71e581
     background-size: cover; /* This property ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     color: #fff;
@@ -17,7 +21,11 @@ body {
 *header{
     width: 100%;
     height: 100vh;
+<<<<<<< HEAD
     background-image: url(images/background.jpeg);
+=======
+    background-image: url(images/logo.png);
+>>>>>>> b0c1c97eef3355afb6a93fe25018a2b79a71e581
     background-size: cover;
     background-position: center;
 
@@ -359,6 +367,9 @@ form btn2{
 .copyright{
     color: #ff004f;
 }
+<<<<<<< HEAD
 nav .fas{
     display: none;
 }
+=======
+>>>>>>> b0c1c97eef3355afb6a93fe25018a2b79a71e581
